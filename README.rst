@@ -11,7 +11,7 @@ Classical colemak:
 
 Codemak:
 
-.. image:: https://lh3.googleusercontent.com/-oSkzlgR8UNA/TxKSR-MVWWI/AAAAAAAAAaU/wX8m4q_LZds/w1203-h401-k/codemak.png
+.. image:: https://lh3.googleusercontent.com/-Y4bW5374ZdY/TxKcMtTuZ8I/AAAAAAAAAa4/HmynQ572oVs/s900/codemak.png
 
 Researches:
 -----------
