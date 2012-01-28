@@ -36,7 +36,7 @@ xkb_symbols "basic" {
     key <AC02> { [            s,            S,      dead_grave,       asciitilde ] }; 
     key <AC03> { [            t,            T,          ssharp,       asciitilde ] }; 
     key <AC04> { [            n,            N,      dead_acute, dead_doubleacute ] };
-    key <AC05> { [            r,            r,  dead_diaeresis,       asciitilde ] };
+    key <AC05> { [            r,            R,  dead_diaeresis,       asciitilde ] };
     key <AC06> { [            i,            I,      dead_caron,       asciitilde ] };
     key <AC07> { [            a,            A,          ntilde,           Ntilde ] };
     key <AC08> { [            e,            E,          eacute,           Eacute ] };
