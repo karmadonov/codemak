@@ -7,7 +7,7 @@ Comparison
 
 Classical colemak:
 
-.. image:: http://www.mediafire.com/file/f56xc24a63n2dil/colemak.svg
+.. image:: https://raw.github.com/0xKirill/codemak/master/images/colemak.png
 
 Codemak:
 
