@@ -27,3 +27,9 @@ Colemak keyboard layout by Shai Coleman: http://colemak.com/
 Comparison of keyboard layouts by Martin Krzywinski: http://mkweb.bcgsc.ca/carpalx/?popular_alternatives
 
 Analysis of the source code of 65 software projects: http://goo.gl/b2odC
+
+
+Useful Links:
+-------------
+
+Learn colemak: http://colemak.com/wiki/index.php?title=Learn
