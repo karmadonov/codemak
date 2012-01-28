@@ -7,15 +7,15 @@ Comparison
 
 Classical colemak:
 
-.. image:: https://raw.github.com/0xKirill/codemak/master/images/colemak.svg
+.. image:: https://raw.github.com/0xKirill/codemak/master/images/colemak.png
 
 Codemak:
 
-.. image:: https://raw.github.com/0xKirill/codemak/master/images/codemak.svg
+.. image:: https://raw.github.com/0xKirill/codemak/master/images/codemak.png
 
 CodemakX (QGMLWY dialect from CarpalX project):
 
-.. image:: https://raw.github.com/0xKirill/codemak/master/images/codemakx.svg
+.. image:: https://raw.github.com/0xKirill/codemak/master/images/codemakx.png
 
 
 
