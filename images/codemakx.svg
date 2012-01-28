@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" font-family="Consolas" font-size="22">
+<g id="Keyboard" fill="none" stroke="#000000" stroke-width="0.5">
+    <rect x="000" width="60" height="60" fill="khaki"/>
+    <rect x="060" width="60" height="60" fill="khaki"/>
+    <rect x="120" width="60" height="60" fill="khaki"/>
+    <rect x="180" width="60" height="60" fill="lightskyblue"/>
+    <rect x="240" width="60" height="60" fill="lightgreen"/>
+    <rect x="300" width="60" height="60" fill="pink"/>
+    <rect x="360" width="60" height="60" fill="pink"/>
+    <rect x="420" width="60" height="60" fill="violet"/>
+    <rect x="480" width="60" height="60" fill="violet"/>
+    <rect x="540" width="60" height="60" fill="lightgreen"/>
+    <rect x="600" width="60" height="60" fill="lightskyblue"/>
+    <rect x="660" width="60" height="60" fill="khaki"/>
+    <rect x="720" width="60" height="60" fill="khaki"/>
+    <rect x="780" width="120" height="60" fill="lightgray"/>
+
+    <rect x="000" y="60" width="90" height="60" fill="lightgray"/>
+    <rect x="090" y="60" width="60" height="60" fill="khaki"/>
+    <rect x="150" y="60" width="60" height="60" fill="lightskyblue"/>
+    <rect x="210" y="60" width="60" height="60" fill="lightgreen"/>
+    <rect x="270" y="60" width="60" height="60" fill="pink"/>
+    <rect x="330" y="60" width="60" height="60" fill="pink"/>
+    <rect x="390" y="60" width="60" height="60" fill="violet"/>
+    <rect x="450" y="60" width="60" height="60" fill="violet"/>
+    <rect x="510" y="60" width="60" height="60" fill="lightgreen"/>
+    <rect x="570" y="60" width="60" height="60" fill="lightskyblue"/>
+    <rect x="630" y="60" width="60" height="60" fill="khaki"/>
+    <rect x="690" y="60" width="60" height="60" fill="khaki"/>
+    <rect x="750" y="60" width="60" height="60" fill="khaki"/>
+    <rect x="810" y="60" width="90" height="60" fill="khaki"/>
+
+    <rect x="000" y="120" width="105" height="60" fill="lightgray"/>
+    <rect x="105" y="120" width="60" height="60" fill="khaki"/>
+    <rect x="165" y="120" width="60" height="60" fill="lightskyblue"/>
+    <rect x="225" y="120" width="60" height="60" fill="lightgreen"/>
+    <rect x="285" y="120" width="60" height="60" fill="pink"/>
+    <rect x="345" y="120" width="60" height="60" fill="pink"/>
+    <rect x="405" y="120" width="60" height="60" fill="violet"/>
+    <rect x="465" y="120" width="60" height="60" fill="violet"/>
+    <rect x="525" y="120" width="60" height="60" fill="lightgreen"/>
+    <rect x="585" y="120" width="60" height="60" fill="lightskyblue"/>
+    <rect x="645" y="120" width="60" height="60" fill="khaki"/>
+    <rect x="705" y="120" width="60" height="60" fill="khaki"/>
+    <rect x="765" y="120" width="135" height="60" fill="lightgray"/>
+
+    <rect x="000" y="180" width="135" height="60" fill="lightgray"/>
+    <rect x="135" y="180" width="60" height="60" fill="khaki"/>
+    <rect x="195" y="180" width="60" height="60" fill="lightskyblue"/>
+    <rect x="255" y="180" width="60" height="60" fill="lightgreen"/>
+    <rect x="315" y="180" width="60" height="60" fill="pink"/>
+    <rect x="375" y="180" width="60" height="60" fill="pink"/>
+    <rect x="435" y="180" width="60" height="60" fill="violet"/>
+    <rect x="495" y="180" width="60" height="60"  fill="violet"/>
+    <rect x="555" y="180" width="60" height="60" fill="lightgreen"/>
+    <rect x="615" y="180" width="60" height="60" fill="lightskyblue"/>
+    <rect x="675" y="180" width="60" height="60" fill="khaki"/>
+    <rect x="735" y="180" width="165" height="60" fill="lightgray"/>
+
+    <rect x="000" y="240" width="90" height="60" fill="lightgray"/>
+    <rect x="090" y="240" width="60" height="60" fill="lightgray"/>
+    <rect x="150" y="240" width="90" height="60" fill="lightgray"/>
+    <rect x="240" y="240" width="360" height="60" fill="azure"/>
+    <rect x="600" y="240" width="90" height="60" fill="lightgray"/>
+    <rect x="690" y="240" width="60" height="60" fill="lightgray"/>
+    <rect x="750" y="240" width="60" height="60" fill="lightgray"/>
+    <rect x="810" y="240" width="90" height="60" fill="lightgray"/>
+</g>
+<!-- key <TLDE> -->
+<text x="10" y="50">&amp;</text>
+<text x="10" y="25">~</text>
+<!-- key <AE01> -->
+<text x="70" y="50">@</text>
+<text x="70" y="25">1</text>
+<!-- key <AE02> -->
+<text x="130" y="50">$</text>
+<text x="130" y="25">2</text>
+<!-- key <AE03> -->
+<text x="190" y="50">#</text>
+<text x="190" y="25">3</text>
+<!-- key <AE04> -->
+<text x="250" y="50">_</text>
+<text x="250" y="25">4</text>
+<!-- key <AE05> -->
+<text x="310" y="50">(</text>
+<text x="310" y="25">5</text>
+<!-- key <AE06> -->
+<text x="370" y="50">)</text>
+<text x="370" y="25">6</text>
+<!-- key <AE07> -->
+<text x="430" y="50">-</text>
+<text x="430" y="25">7</text>
+<!-- key <AE08> -->
+<text x="490" y="50">=</text>
+<text x="490" y="25">8</text>
+<!-- key <AE09> -->
+<text x="550" y="50">*</text>
+<text x="550" y="25">9</text>
+<!-- key <AE10> -->
+<text x="610" y="50">+</text>
+<text x="610" y="25">0</text>
+<!-- key <AE11> -->
+<text x="670" y="50">%</text>
+<text x="670" y="25">`</text>
+<!-- key <AE12> -->
+<text x="730" y="50">!</text>
+<text x="730" y="25">^</text>
+<!-- key <BKSP> -->
+<text x="790" y="50">Bksp</text>
+<text x="790" y="25">←</text>
+
+<!-- key <TAB> -->
+<text x="10" y="110">Tab</text>
+<text x="10" y="85">⇄</text>
+<!-- key <AD01> -->
+<text x="100" y="110">q</text>
+<text x="100" y="85">Q</text>
+<!-- key <AD02> -->
+<text x="160" y="110">g</text>
+<text x="160" y="85">G</text>
+<!-- key <AD03> -->
+<text x="220" y="110">m</text>
+<text x="220" y="85">M</text>
+<!-- key <AD04> -->
+<text x="280" y="110">l</text>
+<text x="280" y="85">L</text>
+<!-- key <AD05> -->
+<text x="340" y="110">w</text>
+<text x="340" y="85">W</text>
+<!-- key <AD06> -->
+<text x="400" y="110">y</text>
+<text x="400" y="85">Y</text>
+<!-- key <AD07> -->
+<text x="460" y="110">f</text>
+<text x="460" y="85">F</text>
+<!-- key <AD08> -->
+<text x="520" y="110">u</text>
+<text x="520" y="85">U</text>
+<!-- key <AD09> -->
+<text x="580" y="110">b</text>
+<text x="580" y="85">B</text>
+<!-- key <AD10> -->
+<text x="640" y="110">:</text>
+<text x="640" y="85">;</text>
+<!-- key <AD11> -->
+<text x="700" y="110">[</text>
+<text x="700" y="85">{</text>
+<!-- key <AD12> -->
+<text x="760" y="110">]</text>
+<text x="760" y="85">}</text>
+<!-- key <BKSL> -->
+<text x="820" y="110">\</text>
+<text x="820" y="85">|</text>
+
+<!-- key <TAB> -->
+<text x="10" y="170">Bksp</text>
+<text x="10" y="145">←</text>
+<!-- key <AC01> -->
+<text x="115" y="170">d</text>
+<text x="115" y="145">D</text>
+<!-- key <AC02> -->
+<text x="175" y="170">s</text>
+<text x="175" y="145">S</text>
+<!-- key <AC03> -->
+<text x="235" y="170">t</text>
+<text x="235" y="145">T</text>
+<!-- key <AC04> -->
+<text x="295" y="170">n</text>
+<text x="295" y="145">N</text>
+<!-- key <AC05> -->
+<text x="355" y="170">r</text>
+<text x="355" y="145">R</text>
+<!-- key <AC06> -->
+<text x="415" y="170">i</text>
+<text x="415" y="145">I</text>
+<!-- key <AC07> -->
+<text x="475" y="170">a</text>
+<text x="475" y="145">A</text>
+<!-- key <AC08> -->
+<text x="535" y="170">e</text>
+<text x="535" y="145">E</text>
+<!-- key <AC09> -->
+<text x="595" y="170">o</text>
+<text x="595" y="145">O</text>
+<!-- key <AC10> -->
+<text x="655" y="170">h</text>
+<text x="655" y="145">H</text>
+<!-- key <AC11> -->
+<text x="715" y="170">'</text>
+<text x="715" y="145">"</text>
+<!-- key <RTRN> -->
+<text x="775" y="170">Enter</text>
+<text x="775" y="145">↵</text>
+
+<!-- key <LFSH> -->
+<text x="10" y="230">Shift</text>
+<text x="10" y="205">⇧</text>
+<!-- key <AB01> -->
+<text x="145" y="230">z</text>
+<text x="145" y="205">Z</text>
+<!-- key <AB02> -->
+<text x="205" y="230">x</text>
+<text x="205" y="205">X</text>
+<!-- key <AB03> -->
+<text x="265" y="230">c</text>
+<text x="265" y="205">C</text>
+<!-- key <AB04> -->
+<text x="325" y="230">v</text>
+<text x="325" y="205">V</text>
+<!-- key <AB05> -->
+<text x="385" y="230">j</text>
+<text x="385" y="205">J</text>
+<!-- key <AB06> -->
+<text x="445" y="230">k</text>
+<text x="445" y="205">K</text>
+<!-- key <AB07> -->
+<text x="505" y="230">p</text>
+<text x="505" y="205">P</text>
+<!-- key <AB08> -->
+<text x="565" y="230">,</text>
+<text x="565" y="205">&lt;</text>
+<!-- key <AB09> -->
+<text x="625" y="230">.</text>
+<text x="625" y="205">&gt;</text>
+<!-- key <AB10> -->
+<text x="685" y="230">/</text>
+<text x="685" y="205">?</text>
+<!-- key <RTSH> -->
+<text x="745" y="230">Shift</text>
+<text x="745" y="205">⇧</text>
+
+<!-- key <LCTRL> -->
+<text x="10" y="290">Ctrl</text>
+<text x="10" y="265">✎</text>
+<!-- key <LWIN> -->
+<text x="100" y="290">Cmd</text>
+<text x="100" y="265">⌘</text>
+<!-- key <LALT> -->
+<text x="160" y="290">Alt</text>
+<text x="160" y="265">✍</text>
+<!-- key <SPCE> -->
+<text x="270" y="290">github.com/0xKirill/codemak</text>
+<text x="270" y="265">CodemakX Keyboard Layout</text>
+<!-- key <RALT> -->
+<text x="610" y="290">Alt</text>
+<text x="610" y="265">✍</text>
+<!-- key <RWIN> -->
+<text x="700" y="290">Cmd</text>
+<text x="700" y="265">⌘</text>
+<!-- key <Menu> -->
+<text x="760" y="290">Menu</text>
+<text x="760" y="265">❏</text>
+<!-- key <RCTRL> -->
+<text x="820" y="290">Ctrl</text>
+<text x="820" y="265">✎</text>
+</svg>
